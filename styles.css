@@ -1,0 +1,211 @@
+:root {
+	--syscoin-primary: #fbb73a;
+	--syscoin-primary-light: #fffee1;
+  --syscoin-green: #89c76d;
+  --syscoin-blue: #5d9bcc;
+  --syscoin-yellow: #fbb73a;
+  --syscoin-red: #f25b62;
+}
+
+.syscoin-bg-green {
+	background-color: var(--syscoin-green) !important;
+}
+
+.syscoin-bg-blue {
+	background-color: var(--syscoin-blue) !important;
+}
+
+.syscoin-bg-yellow {
+	background-color: var(--syscoin-yellow) !important;
+}
+
+.syscoin-bg-red {
+	background-color: var(--syscoin-red) !important;
+}
+
+.syscoin-loading-spinner-container {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 5px;
+}
+
+.syscoin-loading-spinner {
+  background-image: url('./assets/syscoin-loader.svg'); 
+  min-width: 20px;
+  min-height: 20px;
+  background-size: cover;
+  background-position: center;
+  animation: spin 1s linear infinite;
+}
+
+.syscoin-icon {
+  background-image: url('./assets/syscoin-icon.png');
+  min-height: 30px;
+  min-width: 30px;
+  background-size: contain;
+  background-position: center; 
+  background-repeat: no-repeat;
+  margin: 10px 0;
+}
+
+.syscoin-name {  
+  background-image: url('./assets/syscoin-name.png');
+  min-height: 50px;
+  background-size: contain;
+  background-position: left; 
+  background-repeat: no-repeat;
+  margin: 20px;
+}
+
+.syscoin-badge-app-store {  
+  background-image: url('./assets/syscoin-badge-app-store.png');
+  min-width: 120px;
+  min-height: 40px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 10px;
+}
+
+.syscoin-badge-play-store {  
+  background-image: url('./assets/syscoin-badge-play-store.png');
+  min-width: 120px;
+  min-height: 40px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 10px;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.syscoin-small-donut-wrapper {
+	margin: 0 10%;
+	display: flex;
+	justify-content: end;
+	height: 175px;
+}
+
+.syscoin-page-header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.syscoin-background-tr {
+	background-image: url('./assets/syscoin-upper-right.png');
+	background-size: auto 100%; /* Fit height-wise */
+	background-position: top right; /* Align to the top left */
+	background-repeat: no-repeat; /* Prevent repeating */
+}
+
+.syscoin-4x4-grid {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	grid-template-rows: repeat(2, 1fr);
+	grid-column-gap: 0px;
+	grid-row-gap: 0px;
+	height: 100%;
+	box-sizing: border-box;
+}
+
+.syscoin-4x4-grid > * {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.syscoin-initially-shown {
+	display: flex;
+}
+
+.syscoin-initially-hidden {
+	display: none;
+}
+
+.syscoin-utm-table {
+	border-collapse: collapse; /* Shared borders */
+	width: max-content;
+	line-height: 1.2; /* Tighter line spacing */
+}
+
+.syscoin-utm-table th,
+.syscoin-utm-table td {
+	padding: 2px; /* Reduced padding */
+	border: 1px solid #ccc; /* Thinner borders */
+}
+
+.syscoin-settings-separator {
+	margin: 25px 0;
+}
+
+.syscoin-settings-section-title {
+	margin-bottom: 10px;
+}
+
+.syscoin-bar {
+	display: flex;
+	height: 15px;
+	width: 100%;
+	border-radius: 5px;
+	background-color: #f0f0f0;
+}
+
+.syscoin-bar > .syscoin-bar-filled {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-weight: 600;
+	height: 100%;
+	border-radius: inherit;
+}
+
+.syscoin-bar > .syscoin-bar-empty {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-weight: 600;
+	height: 100%;
+	flex-grow: 1;
+}
+
+.syscoin-button {
+	background-color: var(--syscoin-primary-light) !important;
+	border-color: var(--syscoin-primary) !important;
+	color: var(--syscoin-primary) !important;
+	transition: all 150ms !important;
+}
+
+.syscoin-button:hover {
+  background: var(--syscoin-yellow) !important;
+	color: white !important;
+	transition: all 150ms !important;
+}
+
+.syscoin-rounded {
+	display: flex; 
+	justify-content: center; 
+	align-items: center;
+	width: 100%;
+	box-sizing: border-box;
+	padding: 5px;
+	border-radius: 5px;
+	background-color: #f0f0f0;
+}
+
+.syscoin-flex-horizontal-responsive {
+	display: flex;
+	flex-direction: row;
+}
+
+@media (max-width: 768px) {
+	.syscoin-flex-horizontal-responsive {
+		flex-direction: column;
+	}
+}

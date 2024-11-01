@@ -1,0 +1,714 @@
+# Copyright (C) 2024 Syscoin
+# This file is distributed under the same license as the Syscoin plugin.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Syscoin 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/syscoin\n"
+"POT-Creation-Date: 2024-01-17 18:59-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Domain: syscoin\n"
+
+#. Plugin Settings
+msgid "PLUGIN_SETTINGS"
+msgstr ""
+
+#. Account
+msgid "ACCOUNT"
+msgstr ""
+
+#. Log into your account to connect to the app. Don't have an account?
+msgid "LOG_IN_LONG"
+msgstr ""
+
+#. Sign up now
+msgid "SIGN_UP_NOW"
+msgstr ""
+
+#. Log In
+msgid "LOG_IN"
+msgstr ""
+
+#. Forgot my password
+msgid "FORGOT_MY_PASSWORD"
+msgstr ""
+
+#. You are logged in as 
+msgid "YOU_ARE_LOGGED_IN_AS"
+msgstr ""
+
+#. Log Out
+msgid "LOG_OUT"
+msgstr ""
+
+#. This is a premium account.
+msgid "THIS_IS_A_PREMIUM_ACCOUNT"
+msgstr ""
+
+#. This is not a premium account.
+msgid "THIS_IS_NOT_A_PREMIUM_ACCOUNT"
+msgstr ""
+
+#. Upgrade now!
+msgid "UPGRADE_NOW"
+msgstr ""
+
+#. Custom OpenAI token
+msgid "CUSTOM_OPENAI_TOKEN"
+msgstr ""
+
+#. If you have one, you can input your own OpenAI token below to use ChatGPT directly.
+msgid "ENTER_CUSTOM_OPENAI_TOKEN_HERE"
+msgstr ""
+
+#. Save
+msgid "SAVE"
+msgstr ""
+
+#. Get the app
+msgid "GET_APP"
+msgstr ""
+
+#. AI description generator
+msgid "AI_DESCRIPTION_GENERATOR"
+msgstr ""
+
+#. Automatically generate descriptions for your product
+msgid "AI_DESCRIPTION_GENERATOR_DESCRIPTION"
+msgstr ""
+
+#. Words
+msgid "WORDS"
+msgstr ""
+
+#. Generate description
+msgid "GENERATE_DESCRIPTION"
+msgstr ""
+
+#. Generate short description
+msgid "GENERATE_SHORT_DESCRIPTION"
+msgstr ""
+
+#. This feature is exclusive for premium users.
+msgid "FEATURE_EXCLUSIVE_FOR_PREMIUM_USERS"
+msgstr ""
+
+#. You have to log into your account to use the plugin's features.
+msgid "YOU_HAVE_TO_LOG_IN_TO_USE_THE_PLUGINS_FEATURES"
+msgstr ""
+
+#. Go to settings to log in.
+msgid "GO_TO_SETTINGS_TO_LOG_IN"
+msgstr ""
+
+#. General Information
+msgid "GENERAL_INFORMATION"
+msgstr ""
+
+#. Here you can find general information about your website analytics, such as the total number of accesses, the number of accesses per day, and the most requested pages.
+msgid "GENERAL_INFORMATION_DESCRIPTION"
+msgstr ""
+
+#. Accesses to entire website
+msgid "ACCESSES_TO_ENTIRE_WEBSITE"
+msgstr ""
+
+#. Most requested pages
+msgid "MOST_REQUESTED_PAGES"
+msgstr ""
+
+#. UTM data
+msgid "UTM_DATA"
+msgstr ""
+
+#. This information is provided in the URL your customer used to access you website. It helps you to know where your customers come from, and which marketing campaigns are the most effective.
+msgid "UTM_DATA_DESCRIPTION"
+msgstr ""
+
+#. Individual Requests
+msgid "INDIVIDUAL_REQUESTS"
+msgstr ""
+
+#. These are the last requests made to your website, layed out individually.
+msgid "INDIVIDUAL_REQUESTS_DESCRIPTION"
+msgstr ""
+
+#. Analytics
+msgid "ANALYTICS"
+msgstr ""
+
+#. Analytics help you to understand your customers and their behaviour. You can use this information to improve your website and marketing campaigns.
+msgid "ANALYTICS_DESCRIPTION"
+msgstr ""
+
+#. There is not enough data to display the analytics. Plase come back later.
+msgid "ANALYTICS_NOT_ENOUGH_DATA"
+msgstr ""
+
+#. General
+msgid "GENERAL"
+msgstr ""
+
+#. Traffic Sources
+msgid "TRAFFIC_SOURCES"
+msgstr ""
+
+#. Your OpenAI key
+msgid "YOUR_OPENAI_TOKEN"
+msgstr ""
+
+#. E-mail
+msgid "EMAIL"
+msgstr ""
+
+#. Password
+msgid "PASSWORD"
+msgstr ""
+
+#. Write a draft for the descriptions (optional)
+msgid "WRITE_DRAFT_FOR_DESCRIPTIONS"
+msgstr ""
+
+#. No data.
+msgid "NO_DATA"
+msgstr ""
+
+#. Access Logs
+msgid "ACCESS_LOGS"
+msgstr ""
+
+#. Access Time
+msgid "ACCESS_TIME"
+msgstr ""
+
+#. User IP
+msgid "USER_IP"
+msgstr ""
+
+#. User Agent
+msgid "USER_AGENT"
+msgstr ""
+
+#. Page
+msgid "PAGE"
+msgstr ""
+
+#. Requests
+msgid "REQUESTS"
+msgstr ""
+
+#. Requests per day
+msgid "REQUESTS_PER_DAY"
+msgstr ""
+
+#. Day
+msgid "DAY"
+msgstr ""
+
+#. Ocurrences
+msgid "OCURRENCES"
+msgstr ""
+
+#. Requested page
+msgid "REQUESTED_PAGE"
+msgstr ""
+
+#. Your saved key is
+msgid "YOUR_SAVED_KEY_IS"
+msgstr ""
+
+#. Remove OpenAI key
+msgid "REMOVE_OPENAI_KEY"
+msgstr ""
+
+#. Open table
+msgid "OPEN_TABLE"
+msgstr ""
+
+#. Accesses to entire website in the last 3 months
+msgid "ACCESSES_TO_ENTIRE_WEBSITE_LAST_3_MONTHS"
+msgstr ""
+
+#. Total accesses today
+msgid "TOTAL_ACCESSES_TODAY"
+msgstr ""
+
+#. Total accesses in period
+msgid "TOTAL_ACCESSES_IN_PERIOD"
+msgstr ""
+
+#. Average accesses per day
+msgid "AVERAGE_ACCESSES_PER_DAY"
+msgstr ""
+
+#. Average time between accesses
+msgid "AVERAGE_TIME_BETWEEN_ACCESSES"
+msgstr ""
+
+#. Settings
+msgid "SETTINGS"
+msgstr ""
+
+#. Support
+msgid "SUPPORT"
+msgstr ""
+
+#. Other settings
+msgid "OTHER_SETTINGS"
+msgstr ""
+
+#. Other settings of the plugin.
+msgid "OTHER_SETTINGS_DESC"
+msgstr ""
+
+#. Enable the Syscoin footer.
+msgid "ENABLE_AGENCY_FOOTER"
+msgstr ""
+
+#. Open the browser version of the app
+msgid "OPEN_APP_WEB_VERSION"
+msgstr ""
+
+#. Install the app in your smartphone or open the web version
+msgid "GET_APP_LONG"
+msgstr ""
+
+#. Enable AI features of the plugin
+msgid "CUSTOM_OPENAI_TOKEN_DESC"
+msgstr ""
+
+#. Log in with your Syscoin account
+msgid "ACCOUNT_DESC"
+msgstr ""
+
+#. Product Description Generator
+msgid "PRODUCT_DESCRIPTION_GENERATOR"
+msgstr ""
+
+#. Insert your OpenAI API key to enable product description generation
+msgid "PRODUCT_DESCRIPTION_GENERATOR_DESC"
+msgstr ""
+
+#. Enter your OpenAI key here to enable the feature.
+msgid "ENTER_CUSTOM_OPENAI_TOKEN_HERE_MANDATORY"
+msgstr ""
+
+#. Find your OpenAI key here.
+msgid "FIND_OPENAI_KEY_HERE"
+msgstr ""
+
+#. Saving and validating key...
+msgid "SAVING_AND_VALIDATING_KEY"
+msgstr ""
+
+#. Removing key...
+msgid "REMOVING_KEY"
+msgstr ""
+
+#. Could not validate your OpenAI API key. Please make sure it's valid.
+msgid "INVALID_OPENAI_KEY"
+msgstr ""
+
+#. You need to configure an OpenAI API key to use this feature.
+msgid "NO_OPENAI_TOKEN"
+msgstr ""
+
+#. Go to settings to configure.
+msgid "GO_TO_SETTINGS_TO_CONFIGURE"
+msgstr ""
+
+#. Generating description...
+msgid "GENERATING_DESCRIPTION"
+msgstr ""
+
+#. App integration
+msgid "APP_INTEGRATION"
+msgstr ""
+
+#. Sync with the Syscoin mobile application
+msgid "APP_INTEGRATION_DESC"
+msgstr ""
+
+#. By connecting to the app, you gain access to statistics and information about your store at your fingertips.
+msgid "APP_INTEGRATION_LONG"
+msgstr ""
+
+#. Sign up to the app now
+msgid "SIGN_UP_APP_NOW"
+msgstr ""
+
+#. Logging out...
+msgid "LOGGING_OUT"
+msgstr ""
+
+#. Logging in...
+msgid "LOGGING_IN"
+msgstr ""
+
+#. Saving...
+msgid "SAVING"
+msgstr ""
+
+#. Sending...
+msgid "SENDING"
+msgstr ""
+
+#. No data for this period
+msgid "LOADING"
+msgstr ""
+
+#. No data for this period
+msgid "NO_DATA_FOR_THIS_PERIOD"
+msgstr ""
+
+#. End of logs.
+msgid "END_OF_LOGS"
+msgstr ""
+
+#. This table presents the logs for this time period:
+msgid "THIS_TABLE_HAS_LOGS_FOR_PERIOD"
+msgstr ""
+
+#. Data for time period:
+msgid "DATA_FOR_PERIOD"
+msgstr ""
+
+#. to
+msgid "TO"
+msgstr ""
+
+#. Last 7 days
+msgid "LAST_7_DAYS"
+msgstr ""
+
+#. Last 30 days
+msgid "LAST_30_DAYS"
+msgstr ""
+
+#. Last 90 days
+msgid "LAST_90_DAYS"
+msgstr ""
+
+#. Last 180 days
+msgid "LAST_180_DAYS"
+msgstr ""
+
+#. This month
+msgid "THIS_MONTH"
+msgstr ""
+
+#. Last month
+msgid "LAST_MONTH"
+msgstr ""
+
+#. This year
+msgid "THIS_YEAR"
+msgstr ""
+
+#. Last year
+msgid "LAST_YEAR"
+msgstr ""
+
+#. Custom period
+msgid "CUSTOM_PERIOD"
+msgstr ""
+
+msgid "DIAG_TOPIC_OK"
+msgstr ""
+
+msgid "DIAG_TOPIC_WARNING"
+msgstr ""
+
+msgid "DIAG_TOPIC_CRITICAL"
+msgstr ""
+
+#. Plugin version
+msgid "DIAG_TOPIC_OUR_PLUGIN_VERSION"
+msgstr ""
+
+msgid "DIAG_OUR_PLUGIN_OK"
+msgstr ""
+
+msgid "DIAG_OUR_PLUGIN_WARNING"
+msgstr ""
+
+#. PHP version
+msgid "DIAG_TOPIC_PHP_VERSION"
+msgstr ""
+
+msgid "DIAG_PHP_VERSION_OK"
+msgstr ""
+
+msgid "DIAG_PHP_VERSION_WARNING"
+msgstr ""
+
+msgid "DIAG_PHP_VERSION_CRITICAL"
+msgstr ""
+
+#. WP version
+msgid "DIAG_TOPIC_WP_VERSION"
+msgstr ""
+
+msgid "DIAG_WP_VERSION_OK"
+msgstr ""
+
+msgid "DIAG_WP_VERSION_WARNING"
+msgstr ""
+
+msgid "DIAG_WP_VERSION_CRITICAL"
+msgstr ""
+
+#. Using SSL
+msgid "DIAG_TOPIC_SSL"
+msgstr ""
+
+msgid "DIAG_SSL_OK"
+msgstr ""
+
+msgid "DIAG_SSL_WARNING"
+msgstr ""
+
+#. File ownership
+msgid "DIAG_TOPIC_FILE_OWNERSHIP"
+msgstr ""
+
+msgid "DIAG_FILE_OWNERSHIP_OK"
+msgstr ""
+
+msgid "DIAG_FILE_OWNERSHIP_WARNING"
+msgstr ""
+
+#. Search engine visibility
+msgid "DIAG_TOPIC_SE_VISIBILITY"
+msgstr ""
+
+msgid "DIAG_SE_VISIBILITY_OK"
+msgstr ""
+
+msgid "DIAG_SE_VISIBILITY_WARNING"
+msgstr ""
+
+#. Unused themes
+msgid "DIAG_TOPIC_UNUSED_THEMES"
+msgstr ""
+
+msgid "DIAG_UNUSED_THEMES_OK"
+msgstr ""
+
+msgid "DIAG_UNUSED_THEMES_WARNING"
+msgstr ""
+
+#. Current theme version
+msgid "DIAG_TOPIC_THEME_VERSION"
+msgstr ""
+
+msgid "DIAG_THEME_VERSION_OK"
+msgstr ""
+
+msgid "DIAG_THEME_VERSION_WARNING"
+msgstr ""
+
+#. Unused plugins
+msgid "DIAG_TOPIC_UNUSED_PLUGINS"
+msgstr ""
+
+msgid "DIAG_UNUSED_PLUGINS_OK"
+msgstr ""
+
+msgid "DIAG_UNUSED_PLUGINS_WARNING"
+msgstr ""
+
+#. Outdated plugins
+msgid "DIAG_TOPIC_OUTDATED_PLUGINS"
+msgstr ""
+
+msgid "DIAG_OUTDATED_PLUGINS_OK"
+msgstr ""
+
+msgid "DIAG_OUTDATED_PLUGINS_WARNING"
+msgstr ""
+
+#. Admin user count
+msgid "DIAG_TOPIC_ADMIN_COUNT"
+msgstr ""
+
+msgid "DIAG_ADMIN_COUNT_OK"
+msgstr ""
+
+msgid "DIAG_ADMIN_COUNT_WARNING"
+msgstr ""
+
+#. Admin usernames are strong
+msgid "DIAG_TOPIC_ADMIN_USERNAMES"
+msgstr ""
+
+msgid "DIAG_ADMIN_USERNAMES_OK"
+msgstr ""
+
+msgid "DIAG_ADMIN_USERNAMES_CRITICAL"
+msgstr ""
+
+#. Using an external SMTP service
+msgid "DIAG_TOPIC_SMTP"
+msgstr ""
+
+msgid "DIAG_SMTP_OK"
+msgstr ""
+
+msgid "DIAG_SMTP_WARNING"
+msgstr ""
+
+#. Caching
+msgid "DIAG_TOPIC_CACHING"
+msgstr ""
+
+msgid "DIAG_CACHING_OK"
+msgstr ""
+
+msgid "DIAG_CACHING_WARNING"
+msgstr ""
+
+msgid "DIAG_CACHING_CRITICAL"
+msgstr ""
+
+#. Error logs
+msgid "DIAG_TOPIC_ERROR_LOGS"
+msgstr ""
+
+msgid "DIAG_ERROR_LOGS_OK"
+msgstr ""
+
+msgid "DIAG_ERROR_LOGS_WARNING"
+msgstr ""
+
+msgid "DIAG_ERROR_LOGS_CRITICAL"
+msgstr ""
+
+#. Cron jobs
+msgid "DIAG_TOPIC_CRON"
+msgstr ""
+
+msgid "DIAG_CRON_OK"
+msgstr ""
+
+msgid "DIAG_CRON_WARNING"
+msgstr ""
+
+#. Open directories
+msgid "DIAG_TOPIC_OPEN_DIRS"
+msgstr ""
+
+msgid "DIAG_OPEN_DIRS_OK"
+msgstr ""
+
+msgid "DIAG_OPEN_DIRS_CRITICAL"
+msgstr ""
+
+# General diagnostics strings
+msgid "DIAGNOSTICS"
+msgstr ""
+
+msgid "DIAGNOSTICS_DESCRIPTION"
+msgstr ""
+
+msgid "DIAGNOSIS_REPORT"
+msgstr ""
+
+msgid "DIAGNOSIS_SCORE"
+msgstr ""
+
+msgid "DIAG_SCORE_DESC_LONG"
+msgstr ""
+
+msgid "BACK"
+msgstr ""
+
+msgid "DIAGNOSE_NOW_DESC"
+msgstr ""
+
+msgid "DIAGNOSE_NOW"
+msgstr ""
+
+msgid "DIAGNOSING"
+msgstr ""
+
+msgid "DIAG_SCORE_GREAT"
+msgstr ""
+
+msgid "DIAG_SCORE_GOOD"
+msgstr ""
+
+msgid "DIAG_SCORE_AVERAGE"
+msgstr ""
+
+msgid "DIAG_SCORE_WARNING"
+msgstr ""
+
+msgid "DIAG_SCORE_VERY_BAD"
+msgstr ""
+
+msgid "DIAG_MADE_IN"
+msgstr ""
+
+msgid "NO_DIAGNOSTICS_HISTORY"
+msgstr ""
+
+msgid "OPEN_DIAGNOSIS"
+msgstr ""
+
+msgid "DIAG_HISTORY"
+msgstr ""
+
+msgid "DIAG_LAST_10_SAVED"
+msgstr ""
+
+msgid "DIAG_PERFORM_WEEKLY"
+msgstr ""
+
+msgid "DIAG_WARN_OLD_REPORT"
+msgstr ""
+
+msgid "YES"
+msgstr ""
+
+msgid "NO"
+msgstr ""
+
+msgid "DIAG_LAST_REPORT"
+msgstr ""
+
+msgid "FIX_THIS_ISSUE"
+msgstr ""
+
+msgid "LOGS_VIEWER"
+msgstr ""
+
+msgid "LOGS_VIEWER_DESCRIPTION"
+msgstr ""
+
+msgid "SHOWING"
+msgstr ""
+
+msgid "LOGS_LC"
+msgstr ""
+
+msgid "LOAD_MORE"
+msgstr ""
+
+msgid "SELECT_SEVERITY_TO_FILTER"
+msgstr ""
+
+msgid "ERROR_VIEWER"
+msgstr ""
+
+msgid "ERROR_VIEWER_DESCRIPTION"
+msgstr ""
+
+msgid "SESSIONS"
+msgstr ""

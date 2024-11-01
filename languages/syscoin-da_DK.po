@@ -1,0 +1,715 @@
+# Copyright (C) 2024 Syscoin
+# This file is distributed under the same license as the Syscoin plugin.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Syscoin 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/syscoin\n"
+"POT-Creation-Date: 2024-01-17 18:59-0300\n"
+"PO-Revision-Date: 2024-01-17 20:37-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Domain: syscoin\n"
+
+#. Plugin Settings
+msgid "PLUGIN_SETTINGS"
+msgstr "Pluginindstillinger"
+
+#. Account
+msgid "ACCOUNT"
+msgstr "Konto"
+
+#. Log into your account to connect to the app. Don't have an account?
+msgid "LOG_IN_LONG"
+msgstr "Log ind på din konto for at forbinde til appen. Har du ikke en konto?"
+
+#. Sign up now
+msgid "SIGN_UP_NOW"
+msgstr "Tilmeld dig nu"
+
+#. Log In
+msgid "LOG_IN"
+msgstr "Log ind"
+
+#. Forgot my password
+msgid "FORGOT_MY_PASSWORD"
+msgstr "Jeg har glemt min adgangskode"
+
+#. You are logged in as
+msgid "YOU_ARE_LOGGED_IN_AS"
+msgstr "Du er logget ind som"
+
+#. Log Out
+msgid "LOG_OUT"
+msgstr "Log ud"
+
+#. This is a premium account.
+msgid "THIS_IS_A_PREMIUM_ACCOUNT"
+msgstr "Dette er en premium-konto"
+
+#. This is not a premium account.
+msgid "THIS_IS_NOT_A_PREMIUM_ACCOUNT"
+msgstr "Dette er ikke en premium-konto"
+
+#. Upgrade now!
+msgid "UPGRADE_NOW"
+msgstr "Opgrader nu!"
+
+#. Custom OpenAI token
+msgid "CUSTOM_OPENAI_TOKEN"
+msgstr "Brugerdefineret OpenAI-token"
+
+#. Enter your custom OpenAI token here.
+msgid "ENTER_CUSTOM_OPENAI_TOKEN_HERE"
+msgstr "Hvis du har én, kan du indtaste din egen OpenAI-token nedenfor for at bruge ChatGPT direkte."
+
+#. Save
+msgid "SAVE"
+msgstr "Gem"
+
+#. Get the app
+msgid "GET_APP"
+msgstr "Hent appen"
+
+#. AI description generator
+msgid "AI_DESCRIPTION_GENERATOR"
+msgstr "AI-beskrivelsesgenerator"
+
+#. Automatically generate descriptions for your product
+msgid "AI_DESCRIPTION_GENERATOR_DESCRIPTION"
+msgstr "Generer automatisk beskrivelser for dit produkt"
+
+#. Words
+msgid "WORDS"
+msgstr "Ord"
+
+#. Generate description
+msgid "GENERATE_DESCRIPTION"
+msgstr "Generer beskrivelse"
+
+#. Generate short description
+msgid "GENERATE_SHORT_DESCRIPTION"
+msgstr "Generer kort beskrivelse"
+
+#. This feature is exclusive for premium users.
+msgid "FEATURE_EXCLUSIVE_FOR_PREMIUM_USERS"
+msgstr "Denne funktion er eksklusiv for premium-brugere."
+
+#. You have to log into your account to use the plugin's features.
+msgid "YOU_HAVE_TO_LOG_IN_TO_USE_THE_PLUGINS_FEATURES"
+msgstr "Du skal logge ind på din konto for at bruge plugin'ets funktioner."
+
+#. Go to settings to log in.
+msgid "GO_TO_SETTINGS_TO_LOG_IN"
+msgstr "Gå til indstillinger for at logge ind."
+
+#. General Information
+msgid "GENERAL_INFORMATION"
+msgstr "Generel Information"
+
+#. Here you can find general information about your website analytics, such as the total number of accesses, the number of accesses per day, and the most requested pages.
+msgid "GENERAL_INFORMATION_DESCRIPTION"
+msgstr "Her kan du finde generelle oplysninger om din webstedsanalytik, såsom det samlede antal adgange, antallet af adgange pr. dag, og de mest anmodede sider."
+
+#. Accesses to entire website
+msgid "ACCESSES_TO_ENTIRE_WEBSITE"
+msgstr "Adgange til hele webstedet"
+
+#. Most requested pages
+msgid "MOST_REQUESTED_PAGES"
+msgstr "Mest anmodede sider"
+
+#. UTM data
+msgid "UTM_DATA"
+msgstr "UTM-data"
+
+#. This information is provided in the URL your customer used to access you website. It helps you to know where your customers come from, and which marketing campaigns are the most effective.
+msgid "UTM_DATA_DESCRIPTION"
+msgstr "Denne information er angivet i URL'en, som din kunde brugte til at få adgang til dit websted. Det hjælper dig med at vide, hvor dine kunder kommer fra, og hvilke markedsføringskampagner der er mest effektive."
+
+#. Individual Requests
+msgid "INDIVIDUAL_REQUESTS"
+msgstr "Individuelle Anmodninger"
+
+#. These are the last requests made to your website, layed out individually.
+msgid "INDIVIDUAL_REQUESTS_DESCRIPTION"
+msgstr "Dette er de sidste anmodninger lavet til dit websted, lagt ud individuelt."
+
+#. Analytics
+msgid "ANALYTICS"
+msgstr "Analytik"
+
+#. Analytics help you to understand your customers and their behaviour. You can use this information to improve your website and marketing campaigns.
+msgid "ANALYTICS_DESCRIPTION"
+msgstr "Analytik hjælper dig med at forstå dine kunder og deres adfærd. Du kan bruge disse oplysninger til at forbedre dit websted og dine markedsføringskampagner."
+
+#. There is not enough data to display the analytics. Please come back later.
+msgid "ANALYTICS_NOT_ENOUGH_DATA"
+msgstr "Der er ikke nok data til at vise analytikken. Kom venligst tilbage senere."
+
+#. General
+msgid "GENERAL"
+msgstr "Generelt"
+
+#. Traffic Sources
+msgid "TRAFFIC_SOURCES"
+msgstr "Trafikkilder"
+
+#. Your OpenAI key
+msgid "YOUR_OPENAI_TOKEN"
+msgstr "Din OpenAI nøgle"
+
+#. E-mail
+msgid "EMAIL"
+msgstr "E-mail"
+
+#. Password
+msgid "PASSWORD"
+msgstr "Adgangskode"
+
+#. Write a draft for the descriptions (optional)
+msgid "WRITE_DRAFT_FOR_DESCRIPTIONS"
+msgstr "Skriv et udkast til beskrivelserne (valgfrit)"
+
+#. No data.
+msgid "NO_DATA"
+msgstr "Keine Daten"
+
+#. Access Logs
+msgid "ACCESS_LOGS"
+msgstr "Zugriffsprotokolle"
+
+#. Access Time
+msgid "ACCESS_TIME"
+msgstr "Zugriffszeit"
+
+#. User IP
+msgid "USER_IP"
+msgstr "Benutzer-IP"
+
+#. User Agent
+msgid "USER_AGENT"
+msgstr "Benutzer-Agent"
+
+#. Page
+msgid "PAGE"
+msgstr "Seite"
+
+#. Requests
+msgid "REQUESTS"
+msgstr "Anfragen"
+
+#. Requests per day
+msgid "REQUESTS_PER_DAY"
+msgstr "Anfragen pro Tag"
+
+#. Day
+msgid "DAY"
+msgstr "Tag"
+
+#. Occurrences
+msgid "OCURRENCES"
+msgstr "Vorkommnisse"
+
+#. Requested Page
+msgid "REQUESTED_PAGE"
+msgstr "Anmodet side"
+
+#. Your saved key is
+msgid "YOUR_SAVED_KEY_IS"
+msgstr "Din gemte nøgle er"
+
+#. Remove OpenAI key
+msgid "REMOVE_OPENAI_KEY"
+msgstr "Fjern OpenAI nøgle"
+
+#. Open table
+msgid "OPEN_TABLE"
+msgstr "Åbn tabel"
+
+#. Accesses to entire website in the last 3 months
+msgid "ACCESSES_TO_ENTIRE_WEBSITE_LAST_3_MONTHS"
+msgstr "Adgang til hele websitet de sidste 3 måneder"
+
+#. Total accesses today
+msgid "TOTAL_ACCESSES_TODAY"
+msgstr "Samlede adgange i dag"
+
+#. Total accesses in period
+msgid "TOTAL_ACCESSES_IN_PERIOD"
+msgstr "Samlede adgange i perioden"
+
+#. Average accesses per day
+msgid "AVERAGE_ACCESSES_PER_DAY"
+msgstr "Gennemsnitlige adgange pr. dag"
+
+#. Average time between accesses
+msgid "AVERAGE_TIME_BETWEEN_ACCESSES"
+msgstr "Gennemsnitlig tid mellem adgange"
+
+#. Settings
+msgid "SETTINGS"
+msgstr "Indstillinger"
+
+#. Support
+msgid "SUPPORT"
+msgstr "Support"
+
+#. Other settings
+msgid "OTHER_SETTINGS"
+msgstr "Andre indstillinger"
+
+#. Other settings of the plugin.
+msgid "OTHER_SETTINGS_DESC"
+msgstr "Andre indstillinger for plugin'et"
+
+#. Enable the Syscoin footer
+msgid "ENABLE_AGENCY_FOOTER"
+msgstr "Aktiver Syscoin-footer"
+
+#. Open the browser version of the app
+msgid "OPEN_APP_WEB_VERSION"
+msgstr "Åbn appen i browseren"
+
+#. Install the app in your smartphone or open the web version
+msgid "GET_APP_LONG"
+msgstr "Installer appen på din smartphone, eller få adgang til den nu via din browser."
+
+#. Enable AI features of the plugin
+msgid "CUSTOM_OPENAI_TOKEN_DESC"
+msgstr "Aktivér AI-funktioner i plugin'et"
+
+#. Log in with your Syscoin account
+msgid "ACCOUNT_DESC"
+msgstr "Log ind med din Syscoin-konto"
+
+#. Product Description Generator
+msgid "PRODUCT_DESCRIPTION_GENERATOR"
+msgstr "Produktbeskrivelsesgenerator"
+
+#. Insert your OpenAI API key to enable product description generation
+msgid "PRODUCT_DESCRIPTION_GENERATOR_DESC"
+msgstr "Indsæt din OpenAI API-nøgle for at aktivere generering af produktbeskrivelser"
+
+#. Enter your OpenAI key here to enable the feature.
+msgid "ENTER_CUSTOM_OPENAI_TOKEN_HERE_MANDATORY"
+msgstr "Indtast din OpenAI-nøgle her for at aktivere generering af WooCommerce produktbeskrivelser."
+
+#. Find your OpenAI key here.
+msgid "FIND_OPENAI_KEY_HERE"
+msgstr "Find din OpenAI-nøgle her."
+
+#. Saving and validating key...
+msgid "SAVING_AND_VALIDATING_KEY"
+msgstr "Gemmer og validerer nøgle..."
+
+#. Removing key...
+msgid "REMOVING_KEY"
+msgstr "Fjerner nøgle..."
+
+#. Could not validate your OpenAI API key. Please make sure it's valid.
+msgid "INVALID_OPENAI_KEY"
+msgstr "Kunne ikke validere din OpenAI API-nøgle. Sørg for, at den er gyldig."
+
+#. You need to configure an OpenAI API key to use this feature.
+msgid "NO_OPENAI_TOKEN"
+msgstr "Du skal konfigurere en OpenAI API-nøgle for at bruge denne funktion."
+
+#. Go to settings to configure.
+msgid "GO_TO_SETTINGS_TO_CONFIGURE"
+msgstr "Gå til indstillinger for at konfigurere."
+
+#. Generating description...
+msgid "GENERATING_DESCRIPTION"
+msgstr "Genererer beskrivelse..."
+
+#. App integration
+msgid "APP_INTEGRATION"
+msgstr "App-integration"
+
+#. Sync with the Syscoin mobile application
+msgid "APP_INTEGRATION_DESC"
+msgstr "Forbind din hjemmeside med Syscoin-mobilappen"
+
+#. By connecting to the app, you gain access to statistics and information about your store at your fingertips.
+msgid "APP_INTEGRATION_LONG"
+msgstr "Ved at forbinde med appen får du adgang til statistik og information om din butik lige ved hånden."
+
+#. Sign up to the app now
+msgid "SIGN_UP_APP_NOW"
+msgstr "Tilmeld dig nu i appen"
+
+#. Logging out...
+msgid "LOGGING_OUT"
+msgstr "Logger ud..."
+
+#. Logging in...
+msgid "LOGGING_IN"
+msgstr "Logger ind..."
+
+#. Saving...
+msgid "SAVING"
+msgstr "Gemmer..."
+
+#. Sending...
+msgid "SENDING"
+msgstr "Sender..."
+
+#. No data for this period
+msgid "LOADING"
+msgstr "Indlæser"
+
+#. No data for this period
+msgid "NO_DATA_FOR_THIS_PERIOD"
+msgstr "Ingen data for denne periode."
+
+#. End of logs.
+msgid "END_OF_LOGS"
+msgstr "Slut på logfiler."
+
+#. This table presents the logs for this time period:
+msgid "THIS_TABLE_HAS_LOGS_FOR_PERIOD"
+msgstr "Denne tabel viser logfilerne for denne periode:"
+
+#. Data for time period:
+msgid "DATA_FOR_PERIOD"
+msgstr "Data for tidsperiode:"
+
+#. to
+msgid "TO"
+msgstr "til"
+
+#. Last 7 days
+msgid "LAST_7_DAYS"
+msgstr "Sidste 7 dage"
+
+#. Last 30 days
+msgid "LAST_30_DAYS"
+msgstr "Sidste 30 dage"
+
+#. Last 90 days
+msgid "LAST_90_DAYS"
+msgstr "Sidste 90 dage"
+
+#. Last 180 days
+msgid "LAST_180_DAYS"
+msgstr "Sidste 180 dage"
+
+#. This month
+msgid "THIS_MONTH"
+msgstr "Denne måned"
+
+#. Last month
+msgid "LAST_MONTH"
+msgstr "Sidste måned"
+
+#. This year
+msgid "THIS_YEAR"
+msgstr "Dette år"
+
+#. Last year
+msgid "LAST_YEAR"
+msgstr "Sidste år"
+
+#. Custom period
+msgid "CUSTOM_PERIOD"
+msgstr "Brugerdefineret periode"
+
+msgid "DIAG_TOPIC_OK"
+msgstr "OK"
+
+msgid "DIAG_TOPIC_WARNING"
+msgstr "ALARM"
+
+msgid "DIAG_TOPIC_CRITICAL"
+msgstr "KRITISK"
+
+#. Plugin version
+msgid "DIAG_TOPIC_OUR_PLUGIN_VERSION"
+msgstr "⭐ Syscoin plugin-version"
+
+msgid "DIAG_OUR_PLUGIN_OK"
+msgstr "Syscoin-pluginet er opdateret (<b>-CURRENT-</b>). Sørg for altid at holde det opdateret!"
+
+msgid "DIAG_OUR_PLUGIN_WARNING"
+msgstr "Syscoin-pluginet er ikke opdateret. Din hjemmeside bruger version <b>-CURRENT-</b>, og den nyeste tilgængelige version er <b>-NEWEST-</b>."
+
+#. PHP version
+msgid "DIAG_TOPIC_PHP_VERSION"
+msgstr "🐘 PHP-version"
+
+msgid "DIAG_PHP_VERSION_OK"
+msgstr "Din PHP-version (<b>-CURRENT-</b>) er den nyeste. Godt gået!"
+
+msgid "DIAG_PHP_VERSION_WARNING"
+msgstr "Der findes en nyere version af PHP. Det er vigtigt at holde PHP opdateret for at drage fordel af de nyeste rettelser og forbedringer. <br> Din hjemmeside kører version <b>-CURRENT-</b>, og den nyeste tilgængelige version er <b>-NEWEST-</b>."
+
+msgid "DIAG_PHP_VERSION_CRITICAL"
+msgstr "Den PHP-version, din hjemmeside bruger (<b>-CURRENT-</b>), er markeret som usikker. Prioriter at opdatere din PHP-version for at undgå risici med stabilitet eller sikkerhed. <br> Den nyeste tilgængelige version er <b>-NEWEST-</b>."
+
+#. WP version
+msgid "DIAG_TOPIC_WP_VERSION"
+msgstr "⚙️ WordPress-version"
+
+msgid "DIAG_WP_VERSION_OK"
+msgstr "Din WordPress-version (<b>-CURRENT-</b>) er den nyeste. Godt klaret!"
+
+msgid "DIAG_WP_VERSION_WARNING"
+msgstr "Der findes en nyere version af WordPress. Det er vigtigt at holde WordPress opdateret for at drage fordel af de nyeste rettelser og forbedringer. <br> Din hjemmeside kører version <b>-CURRENT-</b>, og den nyeste tilgængelige version er <b>-NEWEST-</b>."
+
+msgid "DIAG_WP_VERSION_CRITICAL"
+msgstr "Den WordPress-version, din hjemmeside bruger (<b>-CURRENT-</b>), er markeret som usikker. Prioriter at opdatere din WordPress-version for at undgå risici med stabilitet eller sikkerhed. <br> Den nyeste tilgængelige version er <b>-NEWEST-</b>."
+
+#. Using SSL
+msgid "DIAG_TOPIC_SSL"
+msgstr "🔒 SSL-certifikat"
+
+msgid "DIAG_SSL_OK"
+msgstr "Gode nyheder: Din hjemmeside bruger et SSL-certifikat."
+
+msgid "DIAG_SSL_WARNING"
+msgstr "Din hjemmeside har ikke et SSL-certifikat konfigureret. Uden et SSL-certifikat er din hjemmeside mindre sikker for dine kunder."
+
+#. File ownership
+msgid "DIAG_TOPIC_FILE_OWNERSHIP"
+msgstr "🛂 Filrettigheder"
+
+msgid "DIAG_FILE_OWNERSHIP_OK"
+msgstr "Alt er i orden med filrettighederne på din hjemmeside!"
+
+msgid "DIAG_FILE_OWNERSHIP_WARNING"
+msgstr "Følgende mapper er ikke korrekt konfigureret: <br> -DIRECTORIES_LIST-"
+
+#. Search engine visibility
+msgid "DIAG_TOPIC_SE_VISIBILITY"
+msgstr "🔎 Synlighed i søgemaskiner"
+
+msgid "DIAG_SE_VISIBILITY_OK"
+msgstr "Din hjemmeside er synlig for søgemaskiner."
+
+msgid "DIAG_SE_VISIBILITY_WARNING"
+msgstr "Din hjemmeside er ikke synlig for søgemaskiner. Dette forhindrer potentielle kunder i at finde din hjemmeside."
+
+#. Unused themes
+msgid "DIAG_TOPIC_UNUSED_THEMES"
+msgstr "🎨 Ubrugte temaer"
+
+msgid "DIAG_UNUSED_THEMES_OK"
+msgstr "Alt er rent! Du har ingen inaktive temaer installeret."
+
+msgid "DIAG_UNUSED_THEMES_WARNING"
+msgstr "Din hjemmeside har -COUNT- inaktive temaer installeret. For at undgå potentielle problemer og spare plads er det bedst at fjerne ubrugte temaer. Inaktive temaer: <br> -UNUSED_THEMES_LIST-"
+
+#. Current theme version
+msgid "DIAG_TOPIC_THEME_VERSION"
+msgstr "🖌️ Aktiv tema-version"
+
+msgid "DIAG_THEME_VERSION_OK"
+msgstr "Dit aktive tema <b>-THEME-</b> er opdateret. (<b>-CURRENT-</b>)"
+
+msgid "DIAG_THEME_VERSION_WARNING"
+msgstr "Dit aktive tema er forældet. Opdater temaet <b>-THEME-</b> for at undgå problemer og risici. Den installerede version er <b>-CURRENT-</b>, og den nyeste version er <b>-NEWEST-</b>."
+
+#. Unused plugins
+msgid "DIAG_TOPIC_UNUSED_PLUGINS"
+msgstr "🔌 Inaktive plugins"
+
+msgid "DIAG_UNUSED_PLUGINS_OK"
+msgstr "Du har ingen inaktive plugins. Godt gået!"
+
+msgid "DIAG_UNUSED_PLUGINS_WARNING"
+msgstr "Du har <b>-COUNT-</b> inaktive plugins. Det er vigtigt at afinstallere ubrugte plugins for at gøre din hjemmeside lettere og mindre sårbar. Liste over inaktive plugins: <br> -LIST_UNUSED-"
+
+#. Outdated plugins
+msgid "DIAG_TOPIC_OUTDATED_PLUGINS"
+msgstr "🧩 Forældede plugins"
+
+msgid "DIAG_OUTDATED_PLUGINS_OK"
+msgstr "Alle dine <b>-COUNT_ENABLED-</b> aktive plugins er opdateret. Godt gået!"
+
+msgid "DIAG_OUTDATED_PLUGINS_WARNING"
+msgstr "Du har <b>-COUNT_OUTDATED-</b> forældede plugins: <br> -LIST_OUTDATED-"
+
+#. Admin user count
+msgid "DIAG_TOPIC_ADMIN_COUNT"
+msgstr "👥 Antal admin-konti"
+
+msgid "DIAG_ADMIN_COUNT_OK"
+msgstr "Det ser ud til, at du ikke har for mange admin-konti. Husk altid at deaktivere konti, der ikke længere bruges, såsom dubletter eller tidligere ansattes konti."
+
+msgid "DIAG_ADMIN_COUNT_WARNING"
+msgstr "Din hjemmeside har <b>-COUNT-</b> admin-konti, hvilket indikerer, at nogle måske er unødvendige. Husk altid at deaktivere konti, der ikke længere bruges, såsom dubletter eller tidligere ansattes konti."
+
+#. Admin usernames are strong
+msgid "DIAG_TOPIC_ADMIN_USERNAMES"
+msgstr "🔑 Admin-brugernavne er stærke"
+
+msgid "DIAG_ADMIN_USERNAMES_OK"
+msgstr "Det ser ud til, at dine admin-konti ikke har åbenlyse eller forudsigelige brugernavne. Husk altid at undgå forudsigelige navne som 'admin' eller dit butiksnavn og variationer."
+
+msgid "DIAG_ADMIN_USERNAMES_CRITICAL"
+msgstr "Nogle administrator-konti har åbenlyse brugernavne. Undgå forudsigelige navne som 'admin' eller variationer af din sides navn. Administratorer med åbenlyse navne: <br> -LIST_BAD_NAMES-"
+
+#. Using an external SMTP service
+msgid "DIAG_TOPIC_SMTP"
+msgstr "✉️ Ekstern e-mailtjeneste"
+
+msgid "DIAG_SMTP_OK"
+msgstr "Gode nyheder: Din hjemmeside er konfigureret til at bruge en ekstern e-mailtjeneste. Undgå altid at bruge PHP's e-mailtjeneste, da den er mindre sikker og pålidelig end eksterne SMTP-tjenester."
+
+msgid "DIAG_SMTP_WARNING"
+msgstr "Din hjemmeside er ikke konfigureret til at bruge en ekstern SMTP-tjeneste og er afhængig af PHP's e-mailsystem. PHP's e-mailsystem er mindre sikkert og pålideligt end eksterne SMTP-tjenester."
+
+#. Caching
+msgid "DIAG_TOPIC_CACHING"
+msgstr "⚡ Cache-konfiguration"
+
+msgid "DIAG_CACHING_OK"
+msgstr "Fantastisk: Din hjemmeside har cache konfigureret. Aktuelle indstillinger: <br> -CACHING_SITUATION-"
+
+msgid "DIAG_CACHING_WARNING"
+msgstr "Din hjemmesides cache-indstillinger er ikke optimale. Aktuelle indstillinger: <br> -CACHING_SITUATION-"
+
+msgid "DIAG_CACHING_CRITICAL"
+msgstr "Din hjemmeside har ingen aktiv cache-konfiguration. Aktuelle indstillinger: <br> -CACHING_SITUATION-"
+
+#. Error logs
+msgid "DIAG_TOPIC_ERROR_LOGS"
+msgstr "🛑 Fejllogs"
+
+msgid "DIAG_ERROR_LOGS_OK"
+msgstr "Der blev ikke registreret fatale fejl i fejllogs. Godt klaret!"
+
+msgid "DIAG_ERROR_LOGS_WARNING"
+msgstr "Der blev fundet <b>-WARNING_COUNT-</b> advarsler i fejllogs."
+
+msgid "DIAG_ERROR_LOGS_CRITICAL"
+msgstr "Der blev fundet <b>-FATAL_COUNT-</b> fatale fejl i fejllogs de sidste 7 dage."
+
+#. Cron jobs
+msgid "DIAG_TOPIC_CRON"
+msgstr "⏰ Cron-jobs"
+
+msgid "DIAG_CRON_OK"
+msgstr "Dine cron-jobs fungerer fint."
+
+msgid "DIAG_CRON_WARNING"
+msgstr "Der er <b>-OVERDUE_COUNT-</b> forsinkede jobs i cron-køen: <br> -OVERDUE_LIST-"
+
+#. Open directories
+msgid "DIAG_TOPIC_OPEN_DIRS"
+msgstr "👁️ Eksponerede mapper og filer"
+
+msgid "DIAG_OPEN_DIRS_OK"
+msgstr "Det ser ud til, at din hjemmeside ikke har nogen følsomme filer eller mapper eksponeret for offentligheden."
+
+msgid "DIAG_OPEN_DIRS_CRITICAL"
+msgstr "Din hjemmeside har <b>-DIRS_COUNT-</b> mapper eller filer eksponeret for offentligheden: <br> -DIRS_LIST-"
+
+# General diagnostics strings
+msgid "DIAGNOSTICS"
+msgstr "Health Check"
+
+msgid "DIAGNOSTICS_DESCRIPTION"
+msgstr "Foretag en generel check-up af dit websted for at finde potentielle fremtidige problemer og holde vedligeholdelsen opdateret."
+
+msgid "DIAGNOSIS_REPORT"
+msgstr "Health Check Rapport"
+
+msgid "DIAGNOSIS_SCORE"
+msgstr "Health Score"
+
+msgid "DIAG_SCORE_DESC_LONG"
+msgstr "Løs de problemer, der er fundet, for at øge din Health Score og sikre, at din hjemmeside fungerer glat."
+
+msgid "BACK"
+msgstr "Tilbage"
+
+msgid "DIAGNOSE_NOW_DESC"
+msgstr "Diagnostiser din hjemmeside nu!"
+
+msgid "DIAGNOSE_NOW"
+msgstr "Kør diagnostik nu"
+
+msgid "DIAGNOSING"
+msgstr "Diagnosticerer..."
+
+msgid "DIAG_SCORE_GREAT"
+msgstr "Fantastisk"
+
+msgid "DIAG_SCORE_GOOD"
+msgstr "Godt"
+
+msgid "DIAG_SCORE_AVERAGE"
+msgstr "Middel"
+
+msgid "DIAG_SCORE_WARNING"
+msgstr "Dårligt"
+
+msgid "DIAG_SCORE_VERY_BAD"
+msgstr "Meget dårligt"
+
+msgid "DIAG_MADE_IN"
+msgstr "Lavet i"
+
+msgid "NO_DIAGNOSTICS_HISTORY"
+msgstr "Din hjemmeside er endnu ikke blevet diagnosticeret. Når den er det, vil du få adgang til diagnosticeringshistorikken på denne side."
+
+msgid "OPEN_DIAGNOSIS"
+msgstr "Åbn diagnostik"
+
+msgid "DIAG_HISTORY"
+msgstr "Health Check-historik"
+
+msgid "DIAG_LAST_10_SAVED"
+msgstr "De sidste 10 diagnoser gemmes i historikken."
+
+msgid "DIAG_PERFORM_WEEKLY"
+msgstr "Kør diagnostik ugentligt"
+
+msgid "DIAG_WARN_OLD_REPORT"
+msgstr "Dette er ikke den nyeste rapport og afspejler muligvis ikke længere den aktuelle situation for din hjemmeside."
+
+msgid "YES"
+msgstr "Ja"
+
+msgid "NO"
+msgstr "Nej"
+
+msgid "DIAG_LAST_REPORT"
+msgstr "Sidste Health Score:"
+
+msgid "FIX_THIS_ISSUE"
+msgstr "LØS DETTE PROBLEM"
+
+msgid "LOGS_VIEWER"
+msgstr "Logvisning"
+
+msgid "LOGS_VIEWER_DESCRIPTION"
+msgstr "Kontroller din hjemmesides loghistorik for at finde tekniske problemer på din side."
+
+msgid "SHOWING"
+msgstr "Viser"
+
+msgid "LOGS_LC"
+msgstr "logfiler."
+
+msgid "LOAD_MORE"
+msgstr "Indlæs mere"
+
+msgid "SELECT_SEVERITY_TO_FILTER"
+msgstr "Vælg alvorlighedsgrad for at filtrere"
+
+msgid "ERROR_VIEWER"
+msgstr "Fejlvisning"
+
+msgid "ERROR_VIEWER_DESCRIPTION"
+msgstr "Kontroller din hjemmesides fejlhistorik for at finde tekniske problemer på din side."
+
+msgid "SESSIONS"
+msgstr "Sessioner"

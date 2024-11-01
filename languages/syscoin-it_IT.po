@@ -1,0 +1,715 @@
+# Copyright (C) 2024 Syscoin
+# This file is distributed under the same license as the Syscoin plugin.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Syscoin 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/syscoin\n"
+"POT-Creation-Date: 2024-01-17 02:11-0300\n"
+"PO-Revision-Date: 2024-01-17 20:37-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Domain: syscoin\n"
+
+#. Plugin Settings
+msgid "PLUGIN_SETTINGS"
+msgstr "Impostazioni Plugin"
+
+#. Account
+msgid "ACCOUNT"
+msgstr "Account"
+
+#. Log into your account to connect to the app. Don't have an account?
+msgid "LOG_IN_LONG"
+msgstr "Accedi al tuo account per connetterti all'app. Non hai un account?"
+
+#. Sign up now
+msgid "SIGN_UP_NOW"
+msgstr "Iscriviti ora"
+
+#. Log In
+msgid "LOG_IN"
+msgstr "Accedi"
+
+#. Forgot my password
+msgid "FORGOT_MY_PASSWORD"
+msgstr "Ho dimenticato la mia password"
+
+#. You are logged in as
+msgid "YOU_ARE_LOGGED_IN_AS"
+msgstr "Sei loggato come"
+
+#. Log Out
+msgid "LOG_OUT"
+msgstr "Esci"
+
+#. This is a premium account.
+msgid "THIS_IS_A_PREMIUM_ACCOUNT"
+msgstr "Questo è un account premium"
+
+#. This is not a premium account.
+msgid "THIS_IS_NOT_A_PREMIUM_ACCOUNT"
+msgstr "Questo non è un account premium"
+
+#. Upgrade now!
+msgid "UPGRADE_NOW"
+msgstr "Aggiorna ora!"
+
+#. Custom OpenAI token
+msgid "CUSTOM_OPENAI_TOKEN"
+msgstr "Token OpenAI personalizzato"
+
+#. Enter your custom OpenAI token here.
+msgid "ENTER_CUSTOM_OPENAI_TOKEN_HERE"
+msgstr "Se ne possiedi uno, puoi inserire qui il tuo token OpenAI personalizzato per usare direttamente ChatGPT."
+
+#. Save
+msgid "SAVE"
+msgstr "Salva"
+
+#. Get the app
+msgid "GET_APP"
+msgstr "Ottieni l'app"
+
+#. AI description generator
+msgid "AI_DESCRIPTION_GENERATOR"
+msgstr "Generatore di Descrizioni AI"
+
+#. Automatically generate descriptions for your product
+msgid "AI_DESCRIPTION_GENERATOR_DESCRIPTION"
+msgstr "Genera automaticamente descrizioni per il tuo prodotto"
+
+#. Words
+msgid "WORDS"
+msgstr "Parole"
+
+#. Generate description
+msgid "GENERATE_DESCRIPTION"
+msgstr "Genera descrizione"
+
+#. Generate short description
+msgid "GENERATE_SHORT_DESCRIPTION"
+msgstr "Genera breve descrizione"
+
+#. This feature is exclusive for premium users.
+msgid "FEATURE_EXCLUSIVE_FOR_PREMIUM_USERS"
+msgstr "Questa funzionalità è esclusiva per gli utenti premium."
+
+#. You have to log into your account to use the plugin's features.
+msgid "YOU_HAVE_TO_LOG_IN_TO_USE_THE_PLUGINS_FEATURES"
+msgstr "Devi accedere al tuo account per utilizzare le funzionalità del plugin."
+
+#. Go to settings to log in.
+msgid "GO_TO_SETTINGS_TO_LOG_IN"
+msgstr "Vai alle impostazioni per accedere."
+
+#. General Information
+msgid "GENERAL_INFORMATION"
+msgstr "Informazioni Generali"
+
+#. Here you can find general information about your website analytics, such as the total number of accesses, the number of accesses per day, and the most requested pages.
+msgid "GENERAL_INFORMATION_DESCRIPTION"
+msgstr "Qui puoi trovare informazioni generali sull'analisi del tuo sito web, come il numero totale di accessi, il numero di accessi al giorno e le pagine più richieste."
+
+#. Accesses to entire website
+msgid "ACCESSES_TO_ENTIRE_WEBSITE"
+msgstr "Accessi all'intero sito web"
+
+#. Most requested pages
+msgid "MOST_REQUESTED_PAGES"
+msgstr "Pagine più richieste"
+
+#. UTM data
+msgid "UTM_DATA"
+msgstr "Dati UTM"
+
+#. This information is provided in the URL your customer used to access you website. It helps you to know where your customers come from, and which marketing campaigns are the most effective.
+msgid "UTM_DATA_DESCRIPTION"
+msgstr "Queste informazioni sono fornite nell'URL utilizzato dal tuo cliente per accedere al tuo sito web. Ti aiutano a sapere da dove provengono i tuoi clienti e quali campagne di marketing sono più efficaci."
+
+#. Individual Requests
+msgid "INDIVIDUAL_REQUESTS"
+msgstr "Richieste Individuali"
+
+#. These are the last requests made to your website, layed out individually.
+msgid "INDIVIDUAL_REQUESTS_DESCRIPTION"
+msgstr "Queste sono le ultime richieste fatte al tuo sito web, presentate individualmente."
+
+#. Analytics
+msgid "ANALYTICS"
+msgstr "Analisi"
+
+#. Analytics help you to understand your customers and their behaviour. You can use this information to improve your website and marketing campaigns.
+msgid "ANALYTICS_DESCRIPTION"
+msgstr "Le analisi ti aiutano a comprendere i tuoi clienti e il loro comportamento. Puoi utilizzare queste informazioni per migliorare il tuo sito web e le campagne di marketing."
+
+#. There is not enough data to display the analytics. Please come back later.
+msgid "ANALYTICS_NOT_ENOUGH_DATA"
+msgstr "Non ci sono dati sufficienti per visualizzare le analisi. Per favore, ritorna più tardi."
+
+#. General
+msgid "GENERAL"
+msgstr "Generale"
+
+#. Traffic Sources
+msgid "TRAFFIC_SOURCES"
+msgstr "Fonti di Traffico"
+
+#. Your OpenAI key
+msgid "YOUR_OPENAI_TOKEN"
+msgstr "La tua chiave OpenAI"
+
+#. E-mail
+msgid "EMAIL"
+msgstr "E-mail"
+
+#. Password
+msgid "PASSWORD"
+msgstr "Password"
+
+#. Write a draft for the descriptions (optional)
+msgid "WRITE_DRAFT_FOR_DESCRIPTIONS"
+msgstr "Scrivi una bozza per le descrizioni (opzionale)"
+
+#. No data.
+msgid "NO_DATA"
+msgstr "Nessun dato"
+
+#. Access Logs
+msgid "ACCESS_LOGS"
+msgstr "Registri di accesso"
+
+#. Access Time
+msgid "ACCESS_TIME"
+msgstr "Tempo di accesso"
+
+#. User IP
+msgid "USER_IP"
+msgstr "Indirizzo IP dell'utente"
+
+#. User Agent
+msgid "USER_AGENT"
+msgstr "User Agent"
+
+#. Page
+msgid "PAGE"
+msgstr "Pagina"
+
+#. Requests
+msgid "REQUESTS"
+msgstr "Richieste"
+
+#. Requests per day
+msgid "REQUESTS_PER_DAY"
+msgstr "Richieste al giorno"
+
+#. Day
+msgid "DAY"
+msgstr "Giorno"
+
+#. Occurrences
+msgid "OCURRENCES"
+msgstr "Occorrenze"
+
+#. Requested Page
+msgid "REQUESTED_PAGE"
+msgstr "Pagina richiesta"
+
+#. Your saved key is
+msgid "YOUR_SAVED_KEY_IS"
+msgstr "La tua chiave salvata è"
+
+#. Remove OpenAI key
+msgid "REMOVE_OPENAI_KEY"
+msgstr "Rimuovi chiave OpenAI"
+
+#. Open table
+msgid "OPEN_TABLE"
+msgstr "Apri tabella"
+
+#. Accesses to entire website in the last 3 months
+msgid "ACCESSES_TO_ENTIRE_WEBSITE_LAST_3_MONTHS"
+msgstr "Accessi all'intero sito negli ultimi 3 mesi"
+
+#. Total accesses today
+msgid "TOTAL_ACCESSES_TODAY"
+msgstr "Accessi totali oggi"
+
+#. Total accesses in period
+msgid "TOTAL_ACCESSES_IN_PERIOD"
+msgstr "Accessi totali nel periodo"
+
+#. Average accesses per day
+msgid "AVERAGE_ACCESSES_PER_DAY"
+msgstr "Media accessi al giorno"
+
+#. Average time between accesses
+msgid "AVERAGE_TIME_BETWEEN_ACCESSES"
+msgstr "Tempo medio tra gli accessi"
+
+#. Settings
+msgid "SETTINGS"
+msgstr "Impostazioni"
+
+#. Support
+msgid "SUPPORT"
+msgstr "Supporto"
+
+#. Other settings
+msgid "OTHER_SETTINGS"
+msgstr "Altre impostazioni"
+
+#. Other settings of the plugin.
+msgid "OTHER_SETTINGS_DESC"
+msgstr "Altre impostazioni del plugin"
+
+#. Enable the Syscoin footer
+msgid "ENABLE_AGENCY_FOOTER"
+msgstr "Abilita piè di pagina di Syscoin"
+
+#. Open the browser version of the app
+msgid "OPEN_APP_WEB_VERSION"
+msgstr "Apri app nel browser"
+
+#. Install the app in your smartphone or open the web version
+msgid "GET_APP_LONG"
+msgstr "Installa l'app sul tuo smartphone o accedi ora tramite il browser."
+
+#. Enable AI features of the plugin
+msgid "CUSTOM_OPENAI_TOKEN_DESC"
+msgstr "Abilita le funzionalità AI del plugin"
+
+#. Log in with your Syscoin account
+msgid "ACCOUNT_DESC"
+msgstr "Accedi con il tuo account Syscoin"
+
+#. Product Description Generator
+msgid "PRODUCT_DESCRIPTION_GENERATOR"
+msgstr "Generatore di Descrizione del Prodotto"
+
+#. Insert your OpenAI API key to enable product description generation
+msgid "PRODUCT_DESCRIPTION_GENERATOR_DESC"
+msgstr "Inserisci la tua chiave API OpenAI per abilitare la generazione delle descrizioni dei prodotti"
+
+#. Enter your OpenAI key here to enable the feature.
+msgid "ENTER_CUSTOM_OPENAI_TOKEN_HERE_MANDATORY"
+msgstr "Inserisci qui la tua chiave OpenAI per abilitare la generazione di descrizioni per i prodotti WooCommerce."
+
+#. Find your OpenAI key here.
+msgid "FIND_OPENAI_KEY_HERE"
+msgstr "Trova la tua chiave OpenAI qui."
+
+#. Saving and validating key...
+msgid "SAVING_AND_VALIDATING_KEY"
+msgstr "Salvataggio e convalida della chiave..."
+
+#. Removing key...
+msgid "REMOVING_KEY"
+msgstr "Rimozione della chiave..."
+
+#. Could not validate your OpenAI API key. Please make sure it's valid.
+msgid "INVALID_OPENAI_KEY"
+msgstr "Impossibile convalidare la tua chiave API OpenAI. Assicurati che sia valida."
+
+#. You need to configure an OpenAI API key to use this feature.
+msgid "NO_OPENAI_TOKEN"
+msgstr "Devi configurare una chiave API OpenAI per utilizzare questa funzione."
+
+#. Go to settings to configure.
+msgid "GO_TO_SETTINGS_TO_CONFIGURE"
+msgstr "Vai alle impostazioni per configurare."
+
+#. Generating description...
+msgid "GENERATING_DESCRIPTION"
+msgstr "Generazione della descrizione in corso..."
+
+#. App integration
+msgid "APP_INTEGRATION"
+msgstr "Integrazione con l'App"
+
+#. Sync with the Syscoin mobile application
+msgid "APP_INTEGRATION_DESC"
+msgstr "Collega il tuo sito all'app mobile Syscoin"
+
+#. By connecting to the app, you gain access to statistics and information about your store at your fingertips.
+msgid "APP_INTEGRATION_LONG"
+msgstr "Collegandoti all'app, hai accesso a statistiche e informazioni sul tuo negozio, tutto a portata di mano."
+
+#. Sign up to the app now
+msgid "SIGN_UP_APP_NOW"
+msgstr "Iscriviti ora all'app"
+
+#. Logging out...
+msgid "LOGGING_OUT"
+msgstr "Disconnessione in corso..."
+
+#. Logging in...
+msgid "LOGGING_IN"
+msgstr "Accesso in corso..."
+
+#. Saving...
+msgid "SAVING"
+msgstr "Salvataggio in corso..."
+
+#. Sending...
+msgid "SENDING"
+msgstr "Invio in corso..."
+
+#. No data for this period
+msgid "LOADING"
+msgstr "Caricamento"
+
+#. No data for this period
+msgid "NO_DATA_FOR_THIS_PERIOD"
+msgstr "Nessun dato per questo periodo."
+
+#. End of logs.
+msgid "END_OF_LOGS"
+msgstr "Fine dei registri."
+
+#. This table presents the logs for this time period:
+msgid "THIS_TABLE_HAS_LOGS_FOR_PERIOD"
+msgstr "Questa tabella presenta i registri per questo periodo:"
+
+#. Data for time period:
+msgid "DATA_FOR_PERIOD"
+msgstr "Dati per il periodo:"
+
+#. to
+msgid "TO"
+msgstr "a"
+
+#. Last 7 days
+msgid "LAST_7_DAYS"
+msgstr "Ultimi 7 giorni"
+
+#. Last 30 days
+msgid "LAST_30_DAYS"
+msgstr "Ultimi 30 giorni"
+
+#. Last 90 days
+msgid "LAST_90_DAYS"
+msgstr "Ultimi 90 giorni"
+
+#. Last 180 days
+msgid "LAST_180_DAYS"
+msgstr "Ultimi 180 giorni"
+
+#. This month
+msgid "THIS_MONTH"
+msgstr "Questo mese"
+
+#. Last month
+msgid "LAST_MONTH"
+msgstr "Il mese scorso"
+
+#. This year
+msgid "THIS_YEAR"
+msgstr "Quest'anno"
+
+#. Last year
+msgid "LAST_YEAR"
+msgstr "L'anno scorso"
+
+#. Custom period
+msgid "CUSTOM_PERIOD"
+msgstr "Periodo personalizzato"
+
+msgid "DIAG_TOPIC_OK"
+msgstr "OK"
+
+msgid "DIAG_TOPIC_WARNING"
+msgstr "ALLERTA"
+
+msgid "DIAG_TOPIC_CRITICAL"
+msgstr "CRITICO"
+
+#. Plugin version
+msgid "DIAG_TOPIC_OUR_PLUGIN_VERSION"
+msgstr "⭐ Versione del plugin Syscoin"
+
+msgid "DIAG_OUR_PLUGIN_OK"
+msgstr "Il plugin Syscoin è aggiornato (<b>-CURRENT-</b>). Assicurati di tenerlo sempre aggiornato!"
+
+msgid "DIAG_OUR_PLUGIN_WARNING"
+msgstr "Il plugin Syscoin non è aggiornato. Il tuo sito sta utilizzando la versione <b>-CURRENT-</b> e la più recente disponibile è <b>-NEWEST-</b>."
+
+#. PHP version
+msgid "DIAG_TOPIC_PHP_VERSION"
+msgstr "🐘 Versione di PHP"
+
+msgid "DIAG_PHP_VERSION_OK"
+msgstr "La tua versione di PHP (<b>-CURRENT-</b>) è la più recente. Ottimo lavoro!"
+
+msgid "DIAG_PHP_VERSION_WARNING"
+msgstr "Esiste una versione più recente di PHP. È importante mantenere PHP aggiornato per usufruire delle ultime correzioni e miglioramenti. <br> Il tuo sito sta utilizzando la versione <b>-CURRENT-</b>, e la versione più recente disponibile è <b>-NEWEST-</b>."
+
+msgid "DIAG_PHP_VERSION_CRITICAL"
+msgstr "La versione di PHP che il tuo sito sta utilizzando (<b>-CURRENT-</b>) è stata segnalata come non sicura. È consigliato aggiornare la versione di PHP per evitare rischi di sicurezza o stabilità. <br> La versione più recente disponibile è <b>-NEWEST-</b>."
+
+#. WP version
+msgid "DIAG_TOPIC_WP_VERSION"
+msgstr "⚙️ Versione di WordPress"
+
+msgid "DIAG_WP_VERSION_OK"
+msgstr "La tua versione di WordPress (<b>-CURRENT-</b>) è la più recente. Ottimo lavoro!"
+
+msgid "DIAG_WP_VERSION_WARNING"
+msgstr "Esiste una versione più recente di WordPress. È importante mantenere WordPress aggiornato per usufruire delle ultime correzioni e miglioramenti. <br> Il tuo sito sta utilizzando la versione <b>-CURRENT-</b>, e la versione più recente disponibile è <b>-NEWEST-</b>."
+
+msgid "DIAG_WP_VERSION_CRITICAL"
+msgstr "La versione di WordPress che il tuo sito sta utilizzando (<b>-CURRENT-</b>) è stata segnalata come non sicura. È consigliato aggiornare la versione di WordPress per evitare rischi di sicurezza o stabilità. <br> La versione più recente disponibile è <b>-NEWEST-</b>."
+
+#. Using SSL
+msgid "DIAG_TOPIC_SSL"
+msgstr "🔒 Certificato SSL"
+
+msgid "DIAG_SSL_OK"
+msgstr "Buone notizie: il tuo sito sta utilizzando un certificato SSL."
+
+msgid "DIAG_SSL_WARNING"
+msgstr "Il tuo sito non ha un certificato SSL configurato. Non usare un certificato SSL rende il tuo sito meno sicuro per i tuoi clienti."
+
+#. File ownership
+msgid "DIAG_TOPIC_FILE_OWNERSHIP"
+msgstr "🛂 Permessi dei file"
+
+msgid "DIAG_FILE_OWNERSHIP_OK"
+msgstr "Tutto è a posto con i permessi dei file sul tuo sito!"
+
+msgid "DIAG_FILE_OWNERSHIP_WARNING"
+msgstr "Le seguenti directory non sono configurate correttamente: <br> -DIRECTORIES_LIST-"
+
+#. Search engine visibility
+msgid "DIAG_TOPIC_SE_VISIBILITY"
+msgstr "🔎 Visibilità sui motori di ricerca"
+
+msgid "DIAG_SE_VISIBILITY_OK"
+msgstr "Il tuo sito è visibile ai motori di ricerca."
+
+msgid "DIAG_SE_VISIBILITY_WARNING"
+msgstr "Il tuo sito non è visibile ai motori di ricerca. Questo impedisce ai potenziali clienti di trovare il tuo sito."
+
+#. Unused themes
+msgid "DIAG_TOPIC_UNUSED_THEMES"
+msgstr "🎨 Temi non utilizzati"
+
+msgid "DIAG_UNUSED_THEMES_OK"
+msgstr "Tutto pulito! Non hai temi inattivi installati."
+
+msgid "DIAG_UNUSED_THEMES_WARNING"
+msgstr "Il tuo sito ha -COUNT- temi inattivi installati. Per evitare potenziali problemi e risparmiare spazio, è meglio rimuovere i temi non utilizzati. Temi inattivi: <br> -UNUSED_THEMES_LIST-"
+
+#. Current theme version
+msgid "DIAG_TOPIC_THEME_VERSION"
+msgstr "🖌️ Versione del tema attivo"
+
+msgid "DIAG_THEME_VERSION_OK"
+msgstr "Il tema attivo <b>-THEME-</b> è aggiornato. (<b>-CURRENT-</b>)"
+
+msgid "DIAG_THEME_VERSION_WARNING"
+msgstr "Il tema attivo è obsoleto. Aggiorna il tema <b>-THEME-</b> per evitare problemi e rischi. La versione installata è <b>-CURRENT-</b>, e la più recente è <b>-NEWEST-</b>."
+
+#. Unused plugins
+msgid "DIAG_TOPIC_UNUSED_PLUGINS"
+msgstr "🔌 Plugin inattivi"
+
+msgid "DIAG_UNUSED_PLUGINS_OK"
+msgstr "Non hai plugin inattivi. Complimenti!"
+
+msgid "DIAG_UNUSED_PLUGINS_WARNING"
+msgstr "Hai <b>-COUNT-</b> plugin inattivi. È importante disinstallare i plugin che non vengono utilizzati per rendere il tuo sito più leggero e meno vulnerabile. Elenco dei plugin inattivi: <br> -LIST_UNUSED-"
+
+#. Outdated plugins
+msgid "DIAG_TOPIC_OUTDATED_PLUGINS"
+msgstr "🧩 Plugin obsoleti"
+
+msgid "DIAG_OUTDATED_PLUGINS_OK"
+msgstr "Tutti i tuoi <b>-COUNT_ENABLED-</b> plugin attivi sono aggiornati. Complimenti!"
+
+msgid "DIAG_OUTDATED_PLUGINS_WARNING"
+msgstr "Hai <b>-COUNT_OUTDATED-</b> plugin obsoleti: <br> -LIST_OUTDATED-"
+
+#. Admin user count
+msgid "DIAG_TOPIC_ADMIN_COUNT"
+msgstr "👥 Numero di account amministratore"
+
+msgid "DIAG_ADMIN_COUNT_OK"
+msgstr "Sembra che tu non abbia troppi account amministratore. Ricorda di disattivare sempre gli account che non sono più utilizzati, come account duplicati o di ex dipendenti."
+
+msgid "DIAG_ADMIN_COUNT_WARNING"
+msgstr "Il tuo sito ha <b>-COUNT-</b> account amministratore, il che suggerisce che alcuni potrebbero essere superflui. Ricorda di disattivare sempre gli account che non sono più utilizzati, come account duplicati o di ex dipendenti."
+
+#. Admin usernames are strong
+msgid "DIAG_TOPIC_ADMIN_USERNAMES"
+msgstr "🔑 Gli amministratori hanno nomi utente sicuri"
+
+msgid "DIAG_ADMIN_USERNAMES_OK"
+msgstr "Sembra che gli account amministratore non abbiano nomi utente ovvi o prevedibili. Ricorda di evitare nomi prevedibili come 'admin' o il nome del tuo negozio e le sue varianti."
+
+msgid "DIAG_ADMIN_USERNAMES_CRITICAL"
+msgstr "Alcuni account amministratore hanno nomi utente ovvi. Evita nomi prevedibili come 'admin' o varianti del nome della tua pagina. Amministratori con nomi ovvi: <br> -LIST_BAD_NAMES-"
+
+#. Using an external SMTP service
+msgid "DIAG_TOPIC_SMTP"
+msgstr "✉️ Servizio email esterno"
+
+msgid "DIAG_SMTP_OK"
+msgstr "Buone notizie: il tuo sito è configurato per utilizzare un servizio email esterno. Evita sempre di usare il servizio email di PHP, poiché non è sicuro e affidabile quanto i servizi SMTP esterni."
+
+msgid "DIAG_SMTP_WARNING"
+msgstr "Il tuo sito non è configurato per utilizzare un servizio SMTP esterno e si affida al sistema email di PHP. Il sistema email di PHP non è sicuro e affidabile quanto i servizi SMTP esterni."
+
+#. Caching
+msgid "DIAG_TOPIC_CACHING"
+msgstr "⚡ Configurazione della cache"
+
+msgid "DIAG_CACHING_OK"
+msgstr "Ottimo: il tuo sito ha la cache configurata. Configurazioni attuali: <br> -CACHING_SITUATION-"
+
+msgid "DIAG_CACHING_WARNING"
+msgstr "Le impostazioni della cache del tuo sito non sono ottimali. Configurazioni attuali: <br> -CACHING_SITUATION-"
+
+msgid "DIAG_CACHING_CRITICAL"
+msgstr "Il tuo sito non ha alcuna configurazione della cache attiva. Configurazioni attuali: <br> -CACHING_SITUATION-"
+
+#. Error logs
+msgid "DIAG_TOPIC_ERROR_LOGS"
+msgstr "🛑 Registri degli Errori"
+
+msgid "DIAG_ERROR_LOGS_OK"
+msgstr "Non sono stati rilevati errori fatali nei registri degli errori. Ottimo lavoro!"
+
+msgid "DIAG_ERROR_LOGS_WARNING"
+msgstr "Sono stati rilevati <b>-WARNING_COUNT-</b> avvisi nei registri degli errori."
+
+msgid "DIAG_ERROR_LOGS_CRITICAL"
+msgstr "Sono stati rilevati <b>-FATAL_COUNT-</b> errori fatali nei registri degli errori negli ultimi 7 giorni."
+
+#. Cron jobs
+msgid "DIAG_TOPIC_CRON"
+msgstr "⏰ Cron jobs"
+
+msgid "DIAG_CRON_OK"
+msgstr "I tuoi cron jobs stanno funzionando correttamente."
+
+msgid "DIAG_CRON_WARNING"
+msgstr "Ci sono <b>-OVERDUE_COUNT-</b> jobs scaduti nella coda cron: <br> -OVERDUE_LIST-"
+
+#. Open directories
+msgid "DIAG_TOPIC_OPEN_DIRS"
+msgstr "👁️ Directory e file esposti"
+
+msgid "DIAG_OPEN_DIRS_OK"
+msgstr "Sembra che il tuo sito non abbia file o directory sensibili esposti al pubblico."
+
+msgid "DIAG_OPEN_DIRS_CRITICAL"
+msgstr "Il tuo sito ha <b>-DIRS_COUNT-</b> directory o file esposti al pubblico: <br> -DIRS_LIST-"
+
+# General diagnostics strings
+msgid "DIAGNOSTICS"
+msgstr "Health Check"
+
+msgid "DIAGNOSTICS_DESCRIPTION"
+msgstr "Effettua un check-up generale del tuo sito per individuare potenziali problemi futuri e mantenere la manutenzione aggiornata."
+
+msgid "DIAGNOSIS_REPORT"
+msgstr "Report del Health Check"
+
+msgid "DIAGNOSIS_SCORE"
+msgstr "Health Score"
+
+msgid "DIAG_SCORE_DESC_LONG"
+msgstr "Risolvi i problemi trovati per aumentare il tuo Health Score e garantire che il tuo sito funzioni senza intoppi."
+
+msgid "BACK"
+msgstr "Indietro"
+
+msgid "DIAGNOSE_NOW_DESC"
+msgstr "Esegui ora la diagnosi del tuo sito!"
+
+msgid "DIAGNOSE_NOW"
+msgstr "Esegui diagnosi ora"
+
+msgid "DIAGNOSING"
+msgstr "Diagnosticando..."
+
+msgid "DIAG_SCORE_GREAT"
+msgstr "Ottimo"
+
+msgid "DIAG_SCORE_GOOD"
+msgstr "Buono"
+
+msgid "DIAG_SCORE_AVERAGE"
+msgstr "Nella media"
+
+msgid "DIAG_SCORE_WARNING"
+msgstr "Scarso"
+
+msgid "DIAG_SCORE_VERY_BAD"
+msgstr "Molto scarso"
+
+msgid "DIAG_MADE_IN"
+msgstr "Realizzato in"
+
+msgid "NO_DIAGNOSTICS_HISTORY"
+msgstr "Il tuo sito non è ancora stato diagnosticato. Quando lo sarà, avrai accesso alla cronologia delle diagnosi in questa pagina."
+
+msgid "OPEN_DIAGNOSIS"
+msgstr "Apri diagnosi"
+
+msgid "DIAG_HISTORY"
+msgstr "Storico di Health Check"
+
+msgid "DIAG_LAST_10_SAVED"
+msgstr "Le ultime 10 diagnosi sono salvate nella cronologia."
+
+msgid "DIAG_PERFORM_WEEKLY"
+msgstr "Esegui diagnosi settimanale"
+
+msgid "DIAG_WARN_OLD_REPORT"
+msgstr "Questo non è il rapporto più recente e potrebbe non rappresentare più la situazione attuale del tuo sito."
+
+msgid "YES"
+msgstr "Sì"
+
+msgid "NO"
+msgstr "No"
+
+msgid "DIAG_LAST_REPORT"
+msgstr "Ultimo Health Score:"
+
+msgid "FIX_THIS_ISSUE"
+msgstr "RISOLVERE QUESTO PROBLEMA"
+
+msgid "LOGS_VIEWER"
+msgstr "Visualizzatore di log"
+
+msgid "LOGS_VIEWER_DESCRIPTION"
+msgstr "Controlla la cronologia dei log del tuo sito web per trovare problemi tecnici sulla tua pagina."
+
+msgid "SHOWING"
+msgstr "Mostrando"
+
+msgid "LOGS_LC"
+msgstr "registri."
+
+msgid "LOAD_MORE"
+msgstr "Carica di più"
+
+msgid "SELECT_SEVERITY_TO_FILTER"
+msgstr "Seleziona la gravità da filtrare"
+
+msgid "ERROR_VIEWER"
+msgstr "Visualizzatore Errori"
+
+msgid "ERROR_VIEWER_DESCRIPTION"
+msgstr "Controlla la cronologia degli errori del tuo sito per trovare problemi tecnici sulla tua pagina."
+
+msgid "SESSIONS"
+msgstr "Sessioni"

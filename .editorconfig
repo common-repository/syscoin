@@ -1,0 +1,6 @@
+# top-most EditorConfig file
+root = true
+
+# Matches multiple file types
+[*]
+indent_style = tab
